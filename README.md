@@ -50,3 +50,19 @@ The final dashboard brings the major KPIs, charts and insights together in a sin
 
 ![Sales Dashboard](Sales_Dashboard.png)
 This project demonstrates the use of Microsoft Excel for data analysis, visualization and dashboard creation, transforming raw sales data into useful business insights.
+## Project Overview
+
+This project focuses on analyzing sales data using Microsoft Excel to identify sales trends, regional performance, product category performance, and customer segment contributions.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Excel Charts
+- Data Visualization
+
+## Key Analysis
+- Monthly Sales Performance
+- Regional Sales Analysis
+- Product Category Analysis
+- Customer Segment Analysis
+- Key Business Insights
