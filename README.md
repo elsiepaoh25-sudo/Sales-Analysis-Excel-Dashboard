@@ -46,5 +46,7 @@ This project analyzes sales data using Microsoft Excel to identify revenue patte
 The final dashboard brings the major KPIs, charts and insights together in a single view for easier interpretation of sales performance.
 
 ## Conclusion
+## Dashboard Preview
 
+![Sales Dashboard](Sales_Dashboard.png)
 This project demonstrates the use of Microsoft Excel for data analysis, visualization and dashboard creation, transforming raw sales data into useful business insights.
