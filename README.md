@@ -66,3 +66,4 @@ This project focuses on analyzing sales data using Microsoft Excel to identify s
 - Product Category Analysis
 - Customer Segment Analysis
 - Key Business Insights
+## Key Findings
