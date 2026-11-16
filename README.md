@@ -67,3 +67,7 @@ This project focuses on analyzing sales data using Microsoft Excel to identify s
 - Customer Segment Analysis
 - Key Business Insights
 ## Key Findings
+- The Northeast region recorded the highest sales.
+- Technology was the highest-performing product category.
+- The Consumer segment contributed the highest sales.
+- February recorded the highest monthly sales.
